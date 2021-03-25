@@ -8,7 +8,7 @@
 ## :triangular_flag_on_post: Summary
 
 페이지에 대한 간단한 기능 설명 입니다 ! :blush:
-
+1. React 입문 CRUD 기능
 
 ## :calendar: Update
 
