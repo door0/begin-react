@@ -1,6 +1,7 @@
 # :newspaper: BASIC REACT
 
-생활코딩 React를 보며 공부하면서 만든 입문용 페이지입니다. :grin:
+생활코딩 React를 보며 공부하면서 만든 입문용 페이지입니다. :grin: 
+클래스형 컴포넌트로 공부한 거라서 다시 공부중이에요.
 
 > git 페이지 입니다. <br>
 > - https://door0.github.io/begin-react/
